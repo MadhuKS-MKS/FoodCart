@@ -621,6 +621,6 @@
  <!--Model Candies ends-->   
  
 </div><!--end of main div  -->
-<?php include('includes/footer.php'); ?>
+<?php include('footer.php'); ?>
 
 
