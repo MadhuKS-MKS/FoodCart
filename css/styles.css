@@ -3,10 +3,7 @@
     margin: 0;
     padding: 0;
 }
-/* .header
-{
-    height: 100vh;
-} */
+
 
 .navheader
 {
@@ -26,13 +23,7 @@
 .nav-text{
   color: #FFF;
 }
-/* .navbar-style
-{
-    box-shadow: 0 5px 10px #efefef;
-    background-color: rgba(0, 0, 0,0.5);;
-    font-style: italic;
-    font-size: large;
-} */
+
 .logo
 {
     height: 100px;
@@ -182,6 +173,10 @@
        margin-left: 20%;
        page-break-after: 20%;
 }
+.model{
+  font-family: Comic, cursive, sans-serif;
+
+}
 .justify-card
 {
     margin-left: 18%;
@@ -226,6 +221,8 @@
     height: 200px;
 }
 t{
+  font-family: Comic, cursive, sans-serif;
+  
     border: none;
     outline: 0;
     display: inline-block;
@@ -243,16 +240,26 @@ t{
   }
   #shopping{
     color: white;
+    font-family: Comic, cursive, sans-serif;
+  
   }
   #desc{
   text-align: center;
-    font-family: sans-serif;
-    font-style: bold-italic;
+  font-family: Comic, cursive, sans-serif;
+  
+    /* font-style: bold-italic; */
     font-size: 24px;
   }
   #note{
       justify-content: left;
+      font-family: Comic, cursive, sans-serif;
+  
   }
+  div{
+    font-family: Comic, cursive, sans-serif;
+  
+  }
+
 /* card */
 .store-item-icon {
     position: absolute;
@@ -268,12 +275,6 @@ t{
     color: var(--mainWhite);
   }
 
-// footer
-
-#footer-area{
-    padding:90px 0 60px 0;
-    background: #fff;
-}
 
 .footer-social{
     margin-top:20px;
@@ -281,20 +282,23 @@ t{
 }
 .single-footer h3{
     margin-top: 50px;
-    font-style: oblique;
+    font-family: Comic, cursive, sans-serif;
+
+    /* font-style: oblique; */
     font-weight: 500;
     margin-bottom: 25px;
     color:#fff;
     font-family: merienda;
 }
 .single-footer  p{
-    font-style: oblique;
+  font-family: Comic, cursive, sans-serif;
+  
     color: #fff;
-    font-family: merienda;
+    /* font-family: merienda; */
     margin-right: 10px;
 }
 .link-area li{
-    font-style: oblique;
+    
     padding:5px 5px 5px 0;
     list-style: none;
     
@@ -305,7 +309,8 @@ t{
     text-decoration: none;
     text-transform:capitalize;
     color: rgba(255, 255, 255, 0.856);
-    font-family: merienda;
+    font-family: Comic, cursive, sans-serif;
+  
 }
 
 .link-area li a i{
@@ -315,9 +320,9 @@ color:#fff;
 .link-area{
     padding: 0;
 }
-.single-footer p{
+/* .single-footer p{
     font-family: merienda;
-}
+} */
 .footer-social li a{
     width: 30px;
     height: 30px;
@@ -345,6 +350,3 @@ color:#fff;
 #footer-area ul li a:hover{
     color: palevioletred;
 }
-
-
-
