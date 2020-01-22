@@ -9,14 +9,15 @@
     text-transform: uppercase;
     color: #101D2C;
     line-height: 0;
-    font-family: 'Teko', sans-serif;
+    font-family: Comic, cursive, sans-serif;
+  
     font-weight: 300;
     letter-spacing: 1px;
 }
 
 .section-heading h1 {
-    font-family: 'Niconne', cursive;
-    color: palevioletred;
+    font-family: Comic, cursive, sans-serif;
+        color: palevioletred;
 }
 
 /* .about .btn {
@@ -36,7 +37,7 @@
 .card-body h1{
     font-size: 25px;
     letter-spacing: 1px;
-    font-family: 'Teko', sans-serif;
+    font-family: Comic, cursive, sans-serif;
 }
 
 .card-body h6{
@@ -44,3 +45,7 @@
     color:palevioletred;
 }
 
+.section-heading h4,h1{
+    font-family: Comic, cursive, sans-serif !important;
+
+}
