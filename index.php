@@ -1,5 +1,5 @@
 
-<?php include('includes/header.php'); ?>
+<?php include('header.php'); ?>
 
 
  <div><!--main div-->
